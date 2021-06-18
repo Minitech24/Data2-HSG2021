@@ -1,5 +1,5 @@
 # Data2-HSG2021
-Data Analytics 2: Causal Machine Learning  
+Data Analytics 2: Causal Econometrics 
 University of St. Gallen  
 Spring 2021  
 Kevin Hardegger
